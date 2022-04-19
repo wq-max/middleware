@@ -1,0 +1,56 @@
+2022-04-18 16:09:21.235  INFO 9736 --- [main] c.d.middleware.server.MainApplication    : Starting MainApplication using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 9736 (D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server\target\classes started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware)
+2022-04-18 16:09:21.236 DEBUG 9736 --- [main] c.d.middleware.server.MainApplication    : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 16:09:21.236  INFO 9736 --- [main] c.d.middleware.server.MainApplication    : No active profile set, falling back to 1 default profile: "default"
+2022-04-18 16:09:21.615  WARN 9736 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-18 16:09:21.838  INFO 9736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8087 (http)
+2022-04-18 16:09:21.845  INFO 9736 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-18 16:09:21.845  INFO 9736 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 16:09:21.964  INFO 9736 --- [main] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring embedded WebApplicationContext
+2022-04-18 16:09:21.964  INFO 9736 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 702 ms
+2022-04-18 16:09:22.320  INFO 9736 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8087 (http) with context path '/middleware'
+2022-04-18 16:09:22.327  INFO 9736 --- [main] c.d.middleware.server.MainApplication    : Started MainApplication in 1.339 seconds (JVM running for 1.871)
+2022-04-18 16:10:08.712  INFO 9736 --- [http-nio-8087-exec-4] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-18 16:10:08.712  INFO 9736 --- [http-nio-8087-exec-4] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-18 16:10:08.713  INFO 9736 --- [http-nio-8087-exec-4] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-04-18 16:19:45.842  INFO 24552 --- [main] c.d.middleware.server.MainApplication    : Starting MainApplication using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 24552 (D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server\target\classes started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware)
+2022-04-18 16:19:45.843 DEBUG 24552 --- [main] c.d.middleware.server.MainApplication    : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 16:19:45.843  INFO 24552 --- [main] c.d.middleware.server.MainApplication    : No active profile set, falling back to 1 default profile: "default"
+2022-04-18 16:19:46.190  WARN 24552 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-18 16:19:46.385  INFO 24552 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8087 (http)
+2022-04-18 16:19:46.390  INFO 24552 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-18 16:19:46.391  INFO 24552 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 16:19:46.469  INFO 24552 --- [main] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring embedded WebApplicationContext
+2022-04-18 16:19:46.469  INFO 24552 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 602 ms
+2022-04-18 16:19:46.793  INFO 24552 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8087 (http) with context path '/middleware'
+2022-04-18 16:19:46.799  INFO 24552 --- [main] c.d.middleware.server.MainApplication    : Started MainApplication in 1.168 seconds (JVM running for 1.564)
+2022-04-18 16:20:31.124  INFO 24552 --- [http-nio-8087-exec-1] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-18 16:20:31.125  INFO 24552 --- [http-nio-8087-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-18 16:20:31.125  INFO 24552 --- [http-nio-8087-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
+2022-04-18 20:08:45.837  INFO 18016 --- [main] c.d.middleware.server.MainApplication    : Starting MainApplication using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 18016 (D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server\target\classes started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware)
+2022-04-18 20:08:45.839 DEBUG 18016 --- [main] c.d.middleware.server.MainApplication    : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 20:08:45.839  INFO 18016 --- [main] c.d.middleware.server.MainApplication    : No active profile set, falling back to 1 default profile: "default"
+2022-04-18 20:08:46.252  WARN 18016 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-18 20:08:46.478  INFO 18016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8087 (http)
+2022-04-18 20:08:46.484  INFO 18016 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-18 20:08:46.485  INFO 18016 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 20:08:46.602  INFO 18016 --- [main] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring embedded WebApplicationContext
+2022-04-18 20:08:46.602  INFO 18016 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 736 ms
+2022-04-18 20:08:47.004  INFO 18016 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8087 (http) with context path '/middleware'
+2022-04-18 20:08:47.010  INFO 18016 --- [main] c.d.middleware.server.MainApplication    : Started MainApplication in 1.455 seconds (JVM running for 1.949)
+2022-04-18 20:10:51.473  INFO 18016 --- [http-nio-8087-exec-1] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-04-18 20:10:51.473  INFO 18016 --- [http-nio-8087-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-04-18 20:10:51.474  INFO 18016 --- [http-nio-8087-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-04-18 20:46:38.027  INFO 17460 --- [main] c.d.middleware.server.MainApplication    : Starting MainApplication using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 17460 (D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server\target\classes started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware)
+2022-04-18 20:46:38.028 DEBUG 17460 --- [main] c.d.middleware.server.MainApplication    : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-18 20:46:38.028  INFO 17460 --- [main] c.d.middleware.server.MainApplication    : No active profile set, falling back to 1 default profile: "default"
+2022-04-18 20:46:38.373  INFO 17460 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-18 20:46:38.374  INFO 17460 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-18 20:46:38.388  INFO 17460 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 3 ms. Found 0 Redis repository interfaces.
+2022-04-18 20:46:38.443  WARN 17460 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-18 20:46:38.648  INFO 17460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8087 (http)
+2022-04-18 20:46:38.652  INFO 17460 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-04-18 20:46:38.653  INFO 17460 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.60]
+2022-04-18 20:46:38.730  INFO 17460 --- [main] o.a.c.c.C.[.[localhost].[/middleware]    : Initializing Spring embedded WebApplicationContext
+2022-04-18 20:46:38.730  INFO 17460 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 677 ms
+2022-04-18 20:46:39.254  INFO 17460 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8087 (http) with context path '/middleware'
+2022-04-18 20:46:39.260  INFO 17460 --- [main] c.d.middleware.server.MainApplication    : Started MainApplication in 1.472 seconds (JVM running for 1.92)

@@ -1,0 +1,24 @@
+2022-04-19 09:11:41.557  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : Starting RedisTest2 using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 3540 (started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server)
+2022-04-19 09:11:41.569 DEBUG 3540 --- [main] com.debug.middleware.server.RedisTest2   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 09:11:41.570  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : No active profile set, falling back to 1 default profile: "default"
+2022-04-19 09:11:42.014  INFO 3540 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 09:11:42.016  INFO 3540 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 09:11:42.033  INFO 3540 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 4 ms. Found 0 Redis repository interfaces.
+2022-04-19 09:11:42.112  WARN 3540 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-19 09:11:43.570  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : Started RedisTest2 in 2.259 seconds (JVM running for 2.963)
+2022-04-19 09:11:44.223  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : 获取学生对象列表：{10012=Student(id=10012, userName=sam, name=上古), 10011=Student(id=10011, userName=jack, name=修罗), 10010=Student(id=10010, userName=debug, name=大圣)} 
+2022-04-19 09:11:44.225  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : 获取水果对象列表：{banana=Fruit(name=banana, color=黄色), orange=Fruit(name=orange, color=橙色), apple=Fruit(name=apple, color=红色)} 
+2022-04-19 09:11:44.226  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : 获取指定的学生对象：10012 -> Student(id=10012, userName=sam, name=上古) 
+2022-04-19 09:11:44.227  INFO 3540 --- [main] com.debug.middleware.server.RedisTest2   : 获取指定的水果对象：orange -> Fruit(name=orange, color=橙色) 
+2022-04-19 09:14:36.235  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : Starting RedisTest2 using Java 1.8.0_301 on DESKTOP-QVAD7T5 with PID 16340 (started by 25501 in D:\JavaStudy\GitHubJava\JavaMiddleware\middleware\server)
+2022-04-19 09:14:36.237 DEBUG 16340 --- [main] com.debug.middleware.server.RedisTest2   : Running with Spring Boot v2.6.6, Spring v5.3.18
+2022-04-19 09:14:36.238  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : No active profile set, falling back to 1 default profile: "default"
+2022-04-19 09:14:36.621  INFO 16340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2022-04-19 09:14:36.624  INFO 16340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2022-04-19 09:14:36.639  INFO 16340 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 5 ms. Found 0 Redis repository interfaces.
+2022-04-19 09:14:36.713  WARN 16340 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.debug.middleware.server]' package. Please check your configuration.
+2022-04-19 09:14:38.065  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : Started RedisTest2 in 2.046 seconds (JVM running for 2.646)
+2022-04-19 09:14:38.701  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : 获取学生对象列表：{10012=Student(id=10012, userName=sam, name=上古), 10011=Student(id=10011, userName=jack, name=修罗), 10010=Student(id=10010, userName=debug, name=大圣)} 
+2022-04-19 09:14:38.702  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : 获取水果对象列表：{banana=Fruit(name=banana, color=黄色), orange=Fruit(name=orange, color=橙色), apple=Fruit(name=apple, color=红色)} 
+2022-04-19 09:14:38.704  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : 获取指定的学生对象：10012 -> Student(id=10012, userName=sam, name=上古) 
+2022-04-19 09:14:38.705  INFO 16340 --- [main] com.debug.middleware.server.RedisTest2   : 获取指定的水果对象：orange -> Fruit(name=orange, color=橙色) 
